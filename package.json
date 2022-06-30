@@ -1,0 +1,54 @@
+{
+  "name": "landingpage",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@emailjs/browser": "^3.6.0",
+    "@reduxjs/toolkit": "^1.8.1",
+    "@sanity/block-content-to-react": "^3.0.0",
+    "@sanity/cli": "^2.30.0",
+    "@sanity/client": "^3.3.0",
+    "@sanity/image-url": "^1.0.1",
+    "@testing-library/jest-dom": "^5.16.4",
+    "@testing-library/react": "^12.1.4",
+    "@testing-library/user-event": "^13.5.0",
+    "emailjs": "^3.8.0",
+    "framer-motion": "^6.3.0",
+    "react": "^18.0.0",
+    "react-alice-carousel": "^2.6.1",
+    "react-dom": "^18.0.0",
+    "react-google-login": "^5.2.2",
+    "react-redux": "^7.2.8",
+    "react-responsive-carousel": "^3.2.23",
+    "react-router-dom": "^6.3.0",
+    "react-scripts": "5.0.0",
+    "react-scroll": "^1.8.7",
+    "react-slideshow-image": "^3.7.5",
+    "swiper": "^8.1.0",
+    "web-vitals": "^2.1.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
